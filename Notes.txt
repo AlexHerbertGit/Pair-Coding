@@ -12,3 +12,9 @@ git push origin main
 
 To get any changes uploaded to github online:
 git pull
+
+More stuff:
+'cd src'
+Check path is workspace/project/src
+Done!
+
