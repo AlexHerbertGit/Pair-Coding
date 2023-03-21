@@ -25,3 +25,6 @@ Branching with git:
 git checkout -b develop
 Develop being the name of the new branch
 
+Push to branch:
+git push origin develop
+develop still being the name of the branch.
