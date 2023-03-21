@@ -18,3 +18,10 @@ More stuff:
 Check path is workspace/project/src
 Done!
 
+How to add code comments in javascript:
+For single line comments, use '//hi, my name is bob". // indicates that this line will not be executed, and you can write naything on this line.
+
+Branching with git:
+git checkout -b develop
+Develop being the name of the new branch
+
