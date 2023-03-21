@@ -1,0 +1,14 @@
+When coding javascript, create src > index.js
+Enter 'npm init -y' in console. npm is Node Package Management.
+This will create a file named package.json that includes default information for a nodejs package.
+How to install a package using npm:
+Type 'npm i moment-timezone' in the terminal.
+This will install the package moment-timezone in your workspace, and add moment-timezone as a dependency in your package.json automatically.
+
+To sync this changes with guthub online, do the following in terminal:
+git add .
+git commit -m "insert commit message here - setup with src folder and package json"
+git push origin main
+
+To get any changes uploaded to github online:
+git pull
