@@ -6,3 +6,4 @@ console.log("Pair Coding")
  * This is the pair coding class
  */
 console.log("Samuel-NMIT was here.")
+console.log("blahblah")
