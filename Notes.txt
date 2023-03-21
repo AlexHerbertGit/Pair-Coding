@@ -18,5 +18,5 @@ cd src - Make sure you are in thr right directory! (Same as file you are executi
 node index.js
 
 Install nodemon properly
-npm install nodemon -g
+npm install -g nodemon
 then execute nodemon (filename).js to execute your js file repeatedly
