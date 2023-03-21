@@ -5,7 +5,7 @@ How to install a package using npm:
 Type 'npm i moment-timezone' in the terminal.
 This will install the package moment-timezone in your workspace, and add moment-timezone as a dependency in your package.json automatically.
 
-To sync this changes with guthub online, do the following in terminal:
+To sync this changes with github online, do the following in terminal:
 git add .
 git commit -m "insert commit message here - setup with src folder and package json"
 git push origin main
@@ -17,8 +17,6 @@ Execute javascript file (index being the filename)
 cd src - Make sure you are in thr right directory! (Same as file you are executing)
 node index.js
 
-Install nodemon
-Go to npm website and search for nodemon
-Open the top search result
-Copy and paste install command in your terminal
-nodemon will install and be added to your dependencies automatically
+Install nodemon properly
+npm install nodemon -g
+then execute nodemon (filename).js to execute your js file repeatedly
