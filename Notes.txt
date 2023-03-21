@@ -12,3 +12,13 @@ git push origin main
 
 To get any changes uploaded to github online:
 git pull
+
+Execute javascript file (index being the filename)
+cd src - Make sure you are in thr right directory! (Same as file you are executing)
+node index.js
+
+Install nodemon
+Go to npm website and search for nodemon
+Open the top search result
+Copy and paste install command in your terminal
+nodemon will install and be added to your dependencies automatically
